@@ -1,3 +1,5 @@
+#Simon Game
+
 This is an attempt at making a digital version of the Simon electronic game.
 
 The games logic is written in javascript and the structure and styling is done using HTML and CSS respectively.
