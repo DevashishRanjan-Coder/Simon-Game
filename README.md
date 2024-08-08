@@ -1,4 +1,4 @@
-#Simon Game
+# Simon Game
 
 This is an attempt at making a digital version of the Simon electronic game.
 
